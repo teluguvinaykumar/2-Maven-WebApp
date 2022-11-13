@@ -8,7 +8,7 @@
 </head>
 <%@ page import="java.util.Date" %>
 <body>
-    <h3>Hi VinayKumar Telugu</h3><br>
+    <h3>Hi VinayKumarTelugu</h3><br>
 <h3>Jenkins WebApp with Maven, Sonar, Nexus, Tomcat</h3><br>
 <strong>Current Time is</strong>: <%=new Date() %>
 
